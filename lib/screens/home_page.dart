@@ -9,7 +9,6 @@ import 'package:flutter_social_media_app/screens/upload_page.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:flutter_social_media_app/screens/timeline_page.dart';
-
 import '../models/user.dart';
 
 final GoogleSignIn googleSignIn = GoogleSignIn();
